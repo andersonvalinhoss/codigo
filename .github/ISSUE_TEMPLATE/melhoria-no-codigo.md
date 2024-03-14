@@ -8,3 +8,4 @@ assignees: ''
 ---
 
 Descreva sobre o problemas
+-[x] corrigido a aparada
